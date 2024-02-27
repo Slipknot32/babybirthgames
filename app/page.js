@@ -19,7 +19,7 @@ export default function Home() {
   const [incorrectLetters, setIncorrectLetters] = useState([])
   const [extraLetters, setExtraLetters] = useState ([])
 
-  const babyName = "Olympe".trim().toLowerCase() // toLowerCase for futur purpose (ex. other parents entry)
+  const babyName = "Illyun".trim().toLowerCase() // toLowerCase for futur purpose (ex. other parents entry)
 
   const handleChange = (event) => {
     const userEntry = event.target.value
@@ -243,9 +243,8 @@ export default function Home() {
     </main>
     <footer style={{textAlign:"center"}}>
       <p>
-      Fait avec 🍼 par <a href="https://www.linkedin.com/in/thibautlivigni/">Thibaut Livigni</a>
-      </p>
-      <a href="https://github.com/LordThi/babybirthgames">GitHub du projet</a>
+      Fait avec 🍼 par Thibaut Livigni et modifier par Mylène Abadie 
+      </p>      
     </footer>
     </>
   );
