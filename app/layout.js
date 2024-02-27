@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Baby Birth Games",
+  title: "guess my name",
   description: "Send games for your baby shower",
   icons: {
     icon: [

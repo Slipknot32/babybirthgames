@@ -243,7 +243,7 @@ export default function Home() {
     </main>
     <footer style={{textAlign:"center"}}>
       <p>
-      Fait avec 🍼 par Thibaut Livigni et modifier par Mylène Abadie 
+      Fait avec 🍼 par Mylène Abadie
       </p>      
     </footer>
     </>
